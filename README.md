@@ -13,7 +13,7 @@ y a continuación observará la solucion a los retos planteados referente al tem
 Para el desarrollo de este ejercicio, se define una función que usa bucles `for` para recorrer los elementos de cada lista y poder sumarlos todos y se usa el método `len` para poder tener exactamente la longitud de cada lista; siendo esto vital para calcular el promedio. 
 
 
-$$media(x) =\sum_{i=1}^{n} x_i\frac{1}{n}$$
+$$media(x) = \sum_{i=1}^{n}x_i\frac{1}{n}$$
 
 ```python
 # Se generan 4 listas de numeros reales para ingresarlo a la función y probarla
